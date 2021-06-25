@@ -1,0 +1,51 @@
+{
+    "shops": [{
+        "shopname": "ABC electricals",
+        "area": "Thane",
+        "category": "Electricals",
+        "opening": "2021-06-26T20:51:16.000+08:00",
+        "closing": "2021-06-27T20:51:16.000+08:00"
+    },
+    {
+        "shopname": "Thapa",
+        "area": "Pune",
+        "category": "Stationery",
+        "opening": "2021-06-26T20:51:16.000+08:00",
+        "closing": "2021-06-27T20:51:16.000+08:00"
+    },
+    {
+        "shopname": "Mishra",
+        "area": "Nagpur",
+        "category": "Grocery",
+        "opening": "2021-06-26T20:51:16.000+08:00",
+        "closing": "2021-06-27T20:51:16.000+08:00"
+    },
+    {
+        "shopname": "Harsh",
+        "area": "Thane",
+        "category": "Grocery",
+        "opening": "2021-06-26T20:51:16.000+08:00",
+        "closing": "2021-06-27T20:51:16.000+08:00"
+    },
+    {
+        "shopname": "Abhishek",
+        "area": "Pune",
+        "category": "Electricals",
+        "opening": "2021-06-26T20:51:16.000+08:00",
+        "closing": "2021-06-27T20:51:16.000+08:00"
+    },
+    {
+        "shopname": "Momos",
+        "area": "Ahmednagar",
+        "category": "Baker",
+        "opening": "2021-06-26T20:51:16.000+08:00",
+        "closing": "2021-06-27T20:51:16.000+08:00"
+    },
+    {
+        "shopname": "Sushil",
+        "area": "Nashik",
+        "category": "Grocery",
+        "opening": "2021-06-26T20:51:16.000+08:00",
+        "closing": "2021-06-27T20:51:16.000+08:00"
+    }]
+}
